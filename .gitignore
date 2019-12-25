@@ -21,3 +21,6 @@ htmlcov/
 .coverage
 .coverage.*
 *,cover
+
+#ignore asset folder
+/pokenet_model/assets/*
