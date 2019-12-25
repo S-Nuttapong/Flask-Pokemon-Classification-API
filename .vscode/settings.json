@@ -1,0 +1,27 @@
+{
+    "terminal.integrated.rendererType": "dom",
+    "explorer.confirmDelete": false,
+    "vs-kubernetes": {
+        "vs-kubernetes.helm-path": "/Users/Nuttapong/.vs-kubernetes/tools/helm/darwin-amd64/helm",
+        "vs-kubernetes.minikube-path": "/Users/Nuttapong/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+    },
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "python.pythonPath": "/Users/Nuttapong/virpython/Pokemon_Flask/bin/python3.7",
+    "window.zoomLevel": 0,
+    "code-runner.executorMap": {
+        "python": "pythonPath -U $fullFileName"
+    },
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": true,
+    "python.autoComplete.addBrackets": true,
+    "python.dataScience.autoPreviewNotebooksInInteractivePane": true,
+    "python.autoComplete.extraPaths": [],
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "python.pipenvPath": "pipenv",
+    "git.ignoreLimitWarning": true
+}
