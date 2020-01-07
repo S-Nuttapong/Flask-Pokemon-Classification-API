@@ -15,7 +15,7 @@ _mailinglist
 .pytest_cache/
 .idea/
 docs/_build/
-*assets
+# *assets
 
 # Coverage reports
 htmlcov/
@@ -23,5 +23,5 @@ htmlcov/
 .coverage.*
 *,cover
 
-#ignore asset folder
-/pokenet_model/assets/*
+# #ignore asset folder
+# /pokenet_model/assets/*
