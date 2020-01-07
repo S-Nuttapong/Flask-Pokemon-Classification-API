@@ -36,5 +36,6 @@ pip install -r requirements.txt
 # From WORK_DIR/
 python predict_app.py
 ```
-### Testing API
-For testing, head to https://s-nuttapong.github.io/Pokemon-webapp.html
+### Frontend
+For frontend, kindly head to https://github.com/S-Nuttapong/S-Nuttapong.github.io
+In addition, you can test API directly from this Github page https://s-nuttapong.github.io/Pokemon-webapp.html
