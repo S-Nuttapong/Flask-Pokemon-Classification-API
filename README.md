@@ -1,7 +1,7 @@
 # Flask-Pokemon-Classification-API
 API endpoint for Pokémon's image classification
 
-![GIF](/pokenet_model/assets/ezgif.com-optimize.gif)
+![GIF](/pokenet_model/assets/poke_illustration.gif)
 
 ## Project setup
 
