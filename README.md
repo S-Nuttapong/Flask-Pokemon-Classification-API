@@ -35,4 +35,4 @@ pip install -r requirements.txt
 python predict_app.py
 ```
 ### Testing API
-For testing, head to https://s-nuttapong.github.io/pokenet.html
+For testing, head to https://s-nuttapong.github.io/Pokemon-webapp.html

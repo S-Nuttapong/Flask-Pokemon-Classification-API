@@ -15,9 +15,11 @@ _mailinglist
 .pytest_cache/
 .idea/
 docs/_build/
+*assets
 
 # Coverage reports
 htmlcov/
 .coverage
 .coverage.*
 *,cover
+
