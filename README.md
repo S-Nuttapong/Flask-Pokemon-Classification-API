@@ -38,4 +38,5 @@ python predict_app.py
 ```
 ### Frontend
 For frontend, kindly head to https://github.com/S-Nuttapong/S-Nuttapong.github.io
+
 In addition, you can test API directly from this Github page https://s-nuttapong.github.io/Pokemon-webapp.html
