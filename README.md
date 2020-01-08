@@ -37,7 +37,7 @@ pip install -r requirements.txt
 python predict_app.py
 ```
 ### Frontend
-For frontend, kindly head to  https://s-nuttapong.github.io/Pokemon-webapp
+For frontend, kindly head to  https://github.com/S-Nuttapong/S-Nuttapong.github.io/tree/master/Pokemon-webapp
 
 
 In addition, you can test API directly from this Github page https://s-nuttapong.github.io/Pokemon-webapp/Pokemon-webapp.html
